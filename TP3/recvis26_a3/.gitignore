@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pth
+*.pt
+submission.csv
+history.csv
+training_metrics.csv
+runs/
+data/
+outputs/
+train.npz
+validation.npz
+test.npz

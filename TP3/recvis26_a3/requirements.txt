@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+pandas>=2.1,<3
+pillow>=10,<13
+torch>=2.3,<3
+torchvision>=0.18,<1
+tqdm>=4.66,<5
+open-clip-torch>=2.24,<4
+jupyterlab>=4,<5

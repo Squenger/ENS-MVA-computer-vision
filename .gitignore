@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Large data & models (GitHub file size limits)
+*.pth
+*.pt
+*.onnx
+*.h5
+*.ckpt
+*.mat
+*.npz
+*.npz.gz
+data/
+runs/
+outputs/
+*.npz
+
+# TP3 data/artifacts (also ignored by original course repo)
+TP3/recvis26_a3/data/
+TP3/recvis26_a3/runs/
+TP3/recvis26_a3/outputs/
+TP3/recvis26_a3/submission.csv
+TP3/recvis26_a3/history.csv
+TP3/recvis26_a3/training_metrics.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Nested git metadata backup (if restored by mistake)
+**/.git_local/
